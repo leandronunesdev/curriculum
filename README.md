@@ -1,6 +1,6 @@
 # Leandro Nunes
 
-![](https://github.com/leandronunesdev/curriculum/blob/main/images/profile.jpg?raw=true)
+![](https://github.com/leandronunesdev/curriculum/blob/master/images/profile.png?raw=true)
 
 ## :dart: Introduction
 
