@@ -1,18 +1,12 @@
 # Leandro Nunes
 
-![](https://github.com/leandronunesdev/curriculum/blob/main/images/profile.png?raw=true)
+![](https://github.com/leandronunesdev/curriculum/blob/main/images/profile.jpg?raw=true)
 
 ## :dart: Introduction
 
-Hey there! I am Leandro Nunes, a proud Brazilian with 3 years of success stories as a technology professional. My
-graduation in Public Relations and Business Management was taken at [UFPR](https://pt.wikipedia.org/wiki/Universidade_Federal_do_Paran%C3%A1) and
-I have courses and boot camps related to Frontend, React, Tests
-and English. This knowledge allowed me to build my career acting as a Frontend Developer
-within Brazilian and international projects.
+Hello world! I'm Leandro Nunes, a Brazilian Frontend engineer with 3 years of solid experience in national and international projects, having worked in companies from different fields, such as fintechs, consulting, and data. I contributed to the development of applications through clean and scalable codes, focusing on React.js and its entire ecosystem.
 
-But what I like most as a professional is coding in JavaScript (React) and seeing the results of my work supporting the business's growth.
-
-I am from [Curitiba](https://pt.wikipedia.org/wiki/Curitiba), PR, Brazil. <br>
+My graduation in Public Relations and Business Management was taken at [UFPR](https://pt.wikipedia.org/wiki/Universidade_Federal_do_Paran%C3%A1) and I'm from [Curitiba](https://pt.wikipedia.org/wiki/Curitiba), PR, Brazil. <br>
 
 My LinkedIn profile can be found at [https://www.linkedin.com/in/leandronunesdev/](https://www.linkedin.com/in/leandronunesdev/).
 
